@@ -1,0 +1,1 @@
+Small EJS blog challenge using Node, Express, bodyParse, and loDash. Deployed to Heroku.
